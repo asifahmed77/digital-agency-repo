@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.nav-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: greenyellow;
+    padding: 30px;
+}
+
+.items{
+    display: flex;
+    list-style: none;
+}
+
+.item{
+    margin-right: 40px;
+    padding: 15px 10px;
+}
